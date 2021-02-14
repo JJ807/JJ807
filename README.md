@@ -19,8 +19,5 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="JJ807's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jj807&show_icons=true&hide_border=true" />
