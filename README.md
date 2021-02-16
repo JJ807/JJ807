@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there, my name is Jakub, welcome to my Github page! 👋
 
 - 🔭 I’m currently boosting my JavaScript skillset.
 - 🥅 2021 Goals: Broadening overall knowledge about Javascript and improving skills in designing websites.
