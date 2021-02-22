@@ -1,8 +1,8 @@
-### Hello there, my name is Jakub, welcome to my Github page! 👋
+### Hello there, my name is Jakub and welcome to my Github page! 👋
 
-- 🔭 I’m currently boosting my JavaScript skillset.
-- 🥅 2021 Goals: Broadening overall knowledge about Javascript and improving skills in designing websites.
-- 📫 How to reach me: jakubstrugaa@gmail.com
+- 🔭 I’m currently boosting my Java and JavaScript skillset.
+- 🥅 2021 Goals: Broadening overall knowledge about JavaScript and improving skills in designing websites.
+- 📫 How to reach me: jakub.strugala7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Apart from IT branch I'm interested in psychology/religion/existentialism. Also I'm very fond of retouching photos in Adobe Photoshop and processing films in Adobe Premiere Pro. 
 
