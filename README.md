@@ -1,10 +1,10 @@
 ### Hello there, my name is Jakub and welcome to my Github page! 👋
 
 - 🔭 I’m currently boosting my Java and JavaScript skillset.
-- 🥅 2021 Goals: Broadening overall knowledge about JavaScript and improving skills in designing websites.
+- 🥅 2023 Goals: Broadening overall knowledge about JavaScript and improving skills in designing websites.
 - 📫 How to reach me: jakub.strugala7@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Apart from IT branch I'm interested in psychology/religion/existentialism. Also I'm very fond of retouching photos in Adobe Photoshop and processing films in Adobe Premiere Pro. 
+- ⚡ Fun fact: Apart from IT branch I'm interested in psychology, philosophy and music. Also I'm very fond of retouching pics in Adobe Photoshop and processing films in Adobe Premiere Pro. 
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
